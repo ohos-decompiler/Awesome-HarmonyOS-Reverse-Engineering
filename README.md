@@ -1,4 +1,4 @@
-# AwesomeHarmonyOS-Reverse-Engineering
+# Awesome-HarmonyOS-Reverse-Engineering
 
 本文总结鸿蒙(HarmonyOS)应用(ABC 方舟字节码) 逆向分析资料.
 
