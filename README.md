@@ -18,3 +18,9 @@
 
 * [[原创] 鸿蒙hap应用反编译工具 abc-decompiler 使用分享](https://bbs.kanxue.com/thread-283225.htm)
 * [abc-decompiler 鸿蒙 ABC 反编译代码实现文档](https://github.com/ohos-decompiler/abc-decompiler/blob/master/docs/%E9%B8%BF%E8%92%99%20ABC%20%E5%8F%8D%E7%BC%96%E8%AF%91.md)
+
+
+## 分析环境搭建
+
+* [HarmonyOS Next 模拟器 root](https://wuxianlin.com/2024/10/27/root-harmonyos-next-emultor/)
+* [HarmonyOSNext模拟器Root（无视模拟器镜像完整性验证）](https://juejin.cn/post/7430707283456376844)
