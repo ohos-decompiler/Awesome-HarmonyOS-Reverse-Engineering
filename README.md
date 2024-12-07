@@ -26,9 +26,3 @@
 
 * [HarmonyOS Next 模拟器 root](https://wuxianlin.com/2024/10/27/root-harmonyos-next-emultor/)
 * [HarmonyOSNext模拟器Root（无视模拟器镜像完整性验证）](https://juejin.cn/post/7430707283456376844)
-
-
-## 分析环境搭建
-
-* [HarmonyOS Next 模拟器 root](https://wuxianlin.com/2024/10/27/root-harmonyos-next-emultor/)
-* [HarmonyOSNext模拟器Root（无视模拟器镜像完整性验证）](https://juejin.cn/post/7430707283456376844)
